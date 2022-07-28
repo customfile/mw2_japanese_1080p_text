@@ -2,7 +2,7 @@
 
 2- open up "localized_japanese_iw00" (.zip file)
 
-3- replace the "gamefonts_pc.iwi" with mine
+3- replace the "gamefonts_pc.iwi" in "images" with mine
 
 
 
