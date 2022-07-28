@@ -1,0 +1,11 @@
+1- go to X:\Call of Duty Modern Warfare 2\main
+
+2- open up "localized_japanese_iw00" (.zip file)
+
+3- replace the "gamefonts_pc.iwi" with mine
+
+
+
+by vant
+https://twitter.com/customfile
+https://github.com/customfile
